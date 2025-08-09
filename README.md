@@ -44,7 +44,7 @@ ChatGPT and DALL-E are powerful tools, but their outputs may not always be accur
 
 ### Contributing
 
-Feel free to contribute to this project by creating pull requests with new features, bug fixes, or improvements.
+Feel Free to contribute to this project by creating pull requests with new features, bug fixes, or improvements.
 
 ### License
 
