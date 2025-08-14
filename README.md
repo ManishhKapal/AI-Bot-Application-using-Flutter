@@ -40,7 +40,7 @@ This application requires your own OpenAI API key for access.
 
 ### Disclaimer
 
-ChatGPT and DALL-E are powerful tools, but their outputs may not always be accurate or factual. It's recommended to use them responsibly and critically evaluate the generated content.
+ChatGPT and DALL-E are powerful tools, But their outputs may not always be accurate or factual. It's recommended to use them responsibly and critically evaluate the generated content.
 
 ### Contributing
 
